@@ -33,7 +33,7 @@ I am a driven and committed individual eager to leverage my skills, expertise, a
 ## Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/asela-rohana-12a065278/
-- Twitter:[ ](https://twitter.com/AselaRohana0522)
+- Twitter:https://twitter.com/AselaRohana0522
 - Email: aselarohana0522@gmail.com
 
 ### Let's Secure the Digital World Together! 💻🔒
