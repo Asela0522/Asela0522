@@ -1,7 +1,7 @@
-# Hello, I'm Tharidu 👋
+# Hello, I'm Asela 👋
 
 ### About Me
-I'm a cybersecurity enthusiast based in the beautiful island nation of Sri Lanka. My passion lies in safeguarding digital assets and promoting secure online practices. With a background in [mention relevant education or experience], I'm constantly exploring new technologies and techniques to stay ahead in the ever-evolving landscape of cybersecurity.
+I am a driven and committed individual eager to leverage my skills, expertise, and background to support the objectives of the organization as a dynamic team member. Possessing a proactive approach, strong communication abilities, and a penchant for problem-solving, I am deeply enthusiastic about the realms of Cyber Security Engineering, ethical hacking, bug bounty initiatives, red team exercises, and Penetration Testing. I am poised to contribute effectively to the team's success and thrive in tackling new challenges head-on.
 
 
 ## Skills
@@ -32,8 +32,8 @@ I'm a cybersecurity enthusiast based in the beautiful island nation of Sri Lanka
 
 ## Get in Touch
 
-- LinkedIn: https://www.linkedin.com/in/thariduniroshan/
-- Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
-- Email: thariduniroshan950@gmail.com
+- LinkedIn: https://www.linkedin.com/in/asela-rohana-12a065278/
+- Twitter:[ ](https://twitter.com/AselaRohana0522)
+- Email: aselarohana0522@gmail.com
 
 ### Let's Secure the Digital World Together! 💻🔒
