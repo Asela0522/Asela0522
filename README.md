@@ -10,7 +10,7 @@ I am a driven and committed individual eager to leverage my skills, expertise, a
 - **Programming:** Experienced in languages such as Python, Java, C/C++, and scripting languages for automation and tool development.
 - **Networking:** Solid understanding of network protocols, firewall configurations, and secure network design principles.
 - **Risk Management:** Skilled in assessing and mitigating risks to ensure the confidentiality, integrity, and availability of sensitive information.
-- **Compliance:** Knowledgeable about industry standards and regulations such as GDPR, HIPAA, and PCI DSS.
+
 
 
 
