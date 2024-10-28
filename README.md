@@ -25,10 +25,11 @@ I am a dedicated and responsible individual with a strong foundation in computer
 
 ## Projects
 
-- **[Bash-Password-Generator]:** A simple Bash Password Generator that allows users to create secure, random passwords. Users can customize password length, include special characters, and save generated passwords.
-- **[Caesar Cipher Program - Python]:** A Python-based tool for encrypting and decrypting messages using the classic Caesar Cipher technique.
-- **[Library Management System - Java]:** A Java-based application to manage book inventories, supporting both admin and user roles.
-- **[Bill Management System - Python]:** A Python-based billing system that automates sales transactions for an internal IT store.
+- **[Bash Password Generator](https://github.com/Asela0522/Bash-Password-Generator):** A simple Bash Password Generator that allows users to create secure, random passwords. Users can customize password length, include special characters, and save generated passwords.
+- **[Caesar Cipher Program - Python](https://github.com/Asela0522/Caesar-Cipher-Program):** A Python-based tool for encrypting and decrypting messages using the classic Caesar Cipher technique.
+- **[Library Management System - Java](https://github.com/Asela0522/Library_Management_System_Using_Java):** A Java-based application to manage book inventories, supporting both admin and user roles.
+- **[Bill Management System - Python](https://github.com/Asela0522/Python-Bill-Management-System):** A Python-based billing system that automates sales transactions for an internal IT store.
+
 
 ## Get in Touch
 
